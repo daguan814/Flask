@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5683e31f-cf19-411c-a384-1c1f446f9817" name="变更" comment="">
+    <list default="true" id="5683e31f-cf19-411c-a384-1c1f446f9817" name="变更" comment="补充">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/15a44296-4042-4da4-85ec-610aeceb195d.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/models_new.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/models_new.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/img/hero.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/app/static/img/hero.jpeg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,15 +141,39 @@
       <option name="presentableId" value="Default" />
       <updated>1652760955848</updated>
       <workItem from="1652760957087" duration="6217000" />
-      <workItem from="1652768355290" duration="515000" />
+      <workItem from="1652768355290" duration="2832000" />
+      <workItem from="1652777175098" duration="2333000" />
     </task>
+    <task id="LOCAL-00001" summary="补充">
+      <created>1652769106885</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652769106885</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="补充" />
+    <option name="LAST_COMMIT_MESSAGE" value="补充" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/course_select_system_master$models_new.coverage" NAME="models_new 覆盖结果" MODIFIED="1652768744977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/course_select_system_master$models_new.coverage" NAME="models_new 覆盖结果" MODIFIED="1652769677278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
     <SUITE FILE_PATH="coverage/course_select_system_master$main.coverage" NAME="main 覆盖结果" MODIFIED="1652761025009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
