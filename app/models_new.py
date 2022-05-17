@@ -149,6 +149,7 @@ class Manager(UserMixin, db.Model):
     ManagerPassword = db.Column(db.Text, nullable=False)
     ManagerPermission = db.Column(db.Integer, nullable=False)
 
+    password = "Lhf@2001."
     # override
     def get_id(self):
         return self.ManagerNum
@@ -160,3 +161,5 @@ class Manager(UserMixin, db.Model):
 class TrainingProgram(db.Model):
     # 培养计划
     TPNumber = db.Column(db.String(7), primary_key=True)
+
+
